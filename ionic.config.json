@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue_photo-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
